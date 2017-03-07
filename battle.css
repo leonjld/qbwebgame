@@ -1,0 +1,161 @@
+caption 
+{
+ font-size: 200%;
+ font-family: arial;
+ font-style: italic;
+ font-variant: small-caps;
+ border-width: thin;
+ border-style: solid;
+ border-color: #000000;
+ background-color: #ffffff;
+}
+
+table.sheet
+{
+ font-size: 13px;
+ width: 300px;
+ border-collapse: collapse; 
+ text-align: center;
+}
+
+table.outline
+{
+ table-layout: fixed;
+}
+
+tr 
+{
+ font-weight:900;
+}
+
+tr.center
+{
+ font-weight:100;
+ align:center;
+}
+
+tr.act1
+{
+ font-family: sans-serif;
+ font-size: x-small;
+ border-width: 0px;
+}
+
+tr.act2
+{
+ font-family: sans-serif;
+ font-size: x-small;
+ border-width: 0px;
+ color: red;
+}
+
+td 
+{
+ font-family: arial; 
+ border-width: thin;
+ border-style: solid;
+ border-color: #000000;
+}
+
+td.nb
+{
+ border-style: none;
+}
+
+
+td.white 
+{
+ color: white
+}
+
+td.top 
+{
+ width: 400px;
+ vertical-align: top;
+ text-align: center;
+ background-color: #ffffff;
+}
+
+td.sheet 
+{
+ width: 320px;
+ text-align: center;
+}
+
+th 
+{
+ font-style: italic;
+ font-variant: small-caps;
+ font-family: arial;
+ border-width: thin;
+ border-style: solid;
+ border-color: #000000;
+}
+
+a 
+{
+ font-size: small;
+ font-family: arial;
+ text-align: center;
+}
+
+input.select 
+{
+ width: 1em;
+}
+
+input.invisible
+{
+ visibility: hidden;
+}
+
+input.submit 
+{
+ font-size: 150%;
+ font-family: sans-serif;
+}
+
+span
+{
+ font-size: 12px;
+ font-weight: 100;
+ font-family: sans-serif;
+}
+
+span.emp 
+{
+ font-weight: 900;
+}
+
+span.damage 
+{
+ color: red; 
+ font-weight: 900;
+ font-family: sans-serif;
+}
+
+span.recover 
+{
+ color: green; 
+ font-weight: 900;
+ font-family: sans-serif;
+}
+
+.bold 
+{
+ font-weight:bold
+}
+
+
+span.extra
+{
+ font-family: sans-serif;
+ font-size: x-small;
+}
+
+p.over
+{
+ font-family: sans-serif;
+ font-size: 250%;
+ text-align: center;
+}
